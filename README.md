@@ -43,7 +43,7 @@ In this challenge, the objective is to analyze the risk and return of four inves
 
 ## Usage
 
-Provide instructions or examples on how to use or replicate the analysis locally.
+Great for personal or business use!.
 
 ## Contributing
 
